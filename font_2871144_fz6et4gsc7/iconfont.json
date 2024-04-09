@@ -1,0 +1,16 @@
+{
+  "id": "2871144",
+  "name": "运维系统PC端",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-om",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "24979227",
+      "name": "更多",
+      "font_class": "-more",
+      "unicode": "e604",
+      "unicode_decimal": 58884
+    }
+  ]
+}
